@@ -1,0 +1,4 @@
+Colombia::3::2::0
+Albania::1::0::0
+Ecuador::0::2::0
+Dinamarca::0::0::2
